@@ -2,9 +2,3 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "cleanwhite-hugo-theme"
-
-
-deploy:
-  type: git
-  repository: https://github.com/GePengjie/GePengjie.github.io
-  branch: master
